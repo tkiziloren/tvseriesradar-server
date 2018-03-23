@@ -1,0 +1,56 @@
+{
+  "air_date": "2002-06-09",
+  "crew": [
+    {
+      "id": 47640,
+      "credit_id": "5256f10d19c2956ff611148e",
+      "name": "Clark Johnson",
+      "department": "Directing",
+      "job": "Director",
+      "profile_path": "/ud7Xtakgpkm0djkWGAbQDDTOUCT.jpg"
+    },
+    {
+      "id": 1218279,
+      "credit_id": "5256f10d19c2956ff6111456",
+      "name": "David Simon",
+      "department": "Writing",
+      "job": "Writer",
+      "profile_path": null
+    }
+  ],
+  "episode_number": 2,
+  "guest_stars": [
+    {
+      "id": 170737,
+      "name": "Michael Kostroff",
+      "credit_id": "5256f10c19c2956ff61113a8",
+      "character": "",
+      "order": 2,
+      "profile_path": "/eNIumcGcOxanqX4TR7FZxVqSIdd.jpg"
+    },
+    {
+      "id": 116515,
+      "name": "Delaney Williams",
+      "credit_id": "5256f10c19c2956ff6111364",
+      "character": "",
+      "order": 0,
+      "profile_path": "/xhEczN5K59sCzQLIaBNR649Dgs7.jpg"
+    },
+    {
+      "id": 135651,
+      "name": "Michael B. Jordan",
+      "credit_id": "5256f10d19c2956ff61114d1",
+      "character": "Wallace",
+      "order": 0,
+      "profile_path": "/yXFfXyc2B5bVNCQQmlPnr9HpGXR.jpg"
+    }
+  ],
+  "name": "The Detail",
+  "overview": "\"You cannot lose if you do not play.\" - Marla Daniels.  \n\nMcNulty feels the heat when a witness who testified against D'Angelo is found murdered. Meanwhile, Greggs is given the lay of the land regarding Avon Barksdale's key players, and Herc, Carver and Prez find big-time trouble at the towers.",
+  "id": 66453,
+  "production_code": "102",
+  "season_number": 1,
+  "still_path": "/pbaw3v6alHJS2feLDkcpg4CRDXO.jpg",
+  "vote_average": 8.222,
+  "vote_count": 9
+}

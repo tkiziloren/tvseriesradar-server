@@ -1,0 +1,316 @@
+1.	The Sopranos	1999	TV Series	Rate	9.2	207,284	24 Apr 2013
+2.	Game of Thrones	2011	TV Series	Rate	9.5	1,146,726	24 Apr 2013
+3.	The Wire	2002	TV Series	Rate	9.4	206,161	24 Apr 2013
+4.	Dexter	2006	TV Series	Rate	8.8	529,277	24 Apr 2013
+5.	Breaking Bad	2008	TV Series	Rate	9.5	975,352	24 Apr 2013
+6.	The Walking Dead	2010	TV Series	Rate	8.5	690,763	24 Apr 2013
+7.	Boardwalk Empire	2010	TV Series	Rate	8.6	143,650	24 Apr 2013
+8.	Rome	2005	TV Series	Rate	8.8	121,820	24 Apr 2013
+9.	Mad Men	2007	TV Series	Rate	8.6	152,729	24 Apr 2013
+10.	Sons of Anarchy	2008	TV Series	Rate	8.6	196,758	24 Apr 2013
+11.	The West Wing	1999	TV Series	Rate	8.8	47,701	24 Apr 2013
+12.	Weeds	2005	TV Series	Rate	8.0	89,760	24 Apr 2013
+13.	Lost	2004	TV Series	Rate	8.4	403,932	24 Apr 2013
+14.	Suits	2011	TV Series	Rate	8.7	268,647	24 Apr 2013
+15.	Homeland	2011	TV Series	Rate	8.4	248,744	24 Apr 2013
+16.	Spartacus: Blood and Sand	2010	TV Series	Rate	8.6	183,249	24 Apr 2013
+17.	The Simpsons	1989	TV Series	Rate	8.8	286,951	24 Apr 2013
+18.	Family Guy	1999	TV Series	Rate	8.2	250,740	24 Apr 2013
+19.	How I Met Your Mother	2005	TV Series	Rate	8.4	477,905	24 Apr 2013
+20.	Oz	1997	TV Series	Rate	8.8	71,200	24 Apr 2013
+21.	Firefly	2002	TV Series	Rate	9.1	199,956	24 Apr 2013
+22.	Futurama	1999	TV Series	Rate	8.5	166,314	24 Apr 2013
+23.	South Park	1997	TV Series	Rate	8.8	258,229	24 Apr 2013
+24.	Entourage	2004	TV Series	Rate	8.5	141,031	24 Apr 2013
+25.	Californication	2007	TV Series	Rate	8.3	151,575	24 Apr 2013
+26.	Seinfeld	1989	TV Series	Rate	8.9	186,394	24 Apr 2013
+27.	Carnivàle	2003	TV Series	Rate	8.5	35,759	24 Apr 2013
+28.	Jericho	2006	TV Series	Rate	8.0	49,025	24 Apr 2013
+29.	Flashforward	2009	TV Series	Rate	7.6	55,198	24 Apr 2013
+30.	True Blood	2008	TV Series	Rate	7.9	208,130	24 Apr 2013
+31.	The Vampire Diaries	2009	TV Series	Rate	7.8	234,348	24 Apr 2013
+32.	Arrested Development	2003	TV Series	Rate	8.9	223,545	24 Apr 2013
+33.	Deadwood	2004	TV Series	Rate	8.7	70,284	24 Apr 2013
+34.	Six Feet Under	2001	TV Series	Rate	8.7	96,868	24 Apr 2013
+35.	Boss	2011	TV Series	Rate	8.1	15,728	24 Apr 2013
+36.	Hell on Wheels	2011	TV Series	Rate	8.3	40,622	24 Apr 2013
+37.	The Shield	2002	TV Series	Rate	8.7	58,740	24 Apr 2013
+38.	Blue Bloods	2010	TV Series	Rate	7.5	23,196	24 Apr 2013
+39.	Misfits	2009	TV Series	Rate	8.3	78,118	24 Apr 2013
+40.	Shameless	2011	TV Series	Rate	8.7	122,797	24 Apr 2013
+41.	The Big Bang Theory	2007	TV Series	Rate	8.3	563,094	24 Apr 2013
+42.	Rescue Me	2004	TV Series	Rate	8.4	22,732	24 Apr 2013
+43.	The Borgias	2011	TV Series	Rate	7.9	40,781	24 Apr 2013
+44.	It's Always Sunny in Philadelphia	2005	TV Series	Rate	8.8	144,591	24 Apr 2013
+45.	The X Files	1993	TV Series	Rate	8.7	159,527	24 Apr 2013
+46.	Curb Your Enthusiasm	2000	TV Series	Rate	8.7	71,150	24 Apr 2013
+47.	Episodes	2011	TV Series	Rate	7.8	26,032	24 Apr 2013
+48.	American Horror Story	2011	TV Series	Rate	8.2	211,271	24 Apr 2013
+49.	House of Lies	2012	TV Series	Rate	7.4	21,044	24 Apr 2013
+50.	Luther	2010	TV Series	Rate	8.6	79,814	24 Apr 2013
+51.	Justified	2010	TV Series	Rate	8.6	67,954	24 Apr 2013
+52.	24	2001	TV Series	Rate	8.4	153,923	24 Apr 2013
+53.	Sherlock	2010	TV Series	Rate	9.2	573,597	24 Apr 2013
+54.	The Killing	2011	TV Series	Rate	8.2	74,030	24 Apr 2013
+55.	Scrubs	2001	TV Series	Rate	8.4	204,359	24 Apr 2013
+56.	House M.D.	2004	TV Series	Rate	8.8	327,621	24 Apr 2013
+57.	Grey's Anatomy	2005	TV Series	Rate	7.7	174,651	24 Apr 2013
+58.	ER	1994	TV Series	Rate	7.7	41,260	24 Apr 2013
+59.	Friends	1994	TV Series	Rate	9.0	525,859	24 Apr 2013
+60.	Fringe	2008	TV Series	Rate	8.5	187,358	24 Apr 2013
+61.	Supernatural	2005	TV Series	Rate	8.6	304,644	24 Apr 2013
+62.	Twin Peaks	1990	TV Series	Rate	8.9	120,802	24 Apr 2013
+63.	Buffy the Vampire Slayer	1997	TV Series	Rate	8.2	106,876	24 Apr 2013
+64.	Angel	1999	TV Series	Rate	8.0	53,784	24 Apr 2013
+65.	Monk	2002	TV Series	Rate	8.0	52,560	24 Apr 2013
+66.	Veronica Mars	2004	TV Series	Rate	8.4	56,989	24 Apr 2013
+67.	Friday Night Lights	2006	TV Series	Rate	8.7	45,320	24 Apr 2013
+68.	Doctor Who	2005	TV Series	Rate	8.8	158,917	24 Apr 2013
+69.	Battlestar Galactica	2004	TV Series	Rate	8.7	126,779	24 Apr 2013
+70.	Party Down	2009	TV Series	Rate	8.3	24,276	24 Apr 2013
+71.	Community	2009	TV Series	Rate	8.5	154,088	24 Apr 2013
+72.	Parks and Recreation	2009	TV Series	Rate	8.6	136,492	24 Apr 2013
+73.	Louie	2010	TV Series	Rate	8.6	63,324	24 Apr 2013
+74.	Archer	2009	TV Series	Rate	8.8	100,772	24 Apr 2013
+75.	Happy Endings	2011	TV Series	Rate	7.7	30,721	24 Apr 2013
+76.	Nip/Tuck	2003	TV Series	Rate	7.7	48,280	24 Apr 2013
+77.	Malcolm in the Middle	2000	TV Series	Rate	8.0	100,909	24 Apr 2013
+78.	Prison Break	2005	TV Series	Rate	8.5	363,770	24 Apr 2013
+79.	The Newsroom	2012	TV Series	Rate	8.6	85,392	24 Apr 2013
+80.	Modern Family	2009	TV Series	Rate	8.5	265,632	24 Apr 2013
+81.	Numb3rs	2005	TV Series	Rate	6.9	34,528	24 Apr 2013
+82.	The Mentalist	2008	TV Series	Rate	8.1	137,757	24 Apr 2013
+83.	The Good Wife	2009	TV Series	Rate	8.3	53,876	24 Apr 2013
+84.	Burn Notice	2007	TV Series	Rate	8.0	60,767	24 Apr 2013
+85.	White Collar	2009	TV Series	Rate	8.3	99,381	24 Apr 2013
+86.	Dallas	2012	TV Series	Rate	7.2	9,260	24 Apr 2013
+87.	Freaks and Geeks	1999	TV Series	Rate	8.9	101,011	24 Apr 2013
+88.	The League	2009	TV Series	Rate	8.3	38,228	24 Apr 2013
+89.	Heroes	2006	TV Series	Rate	7.7	207,461	24 Apr 2013
+90.	Desperate Housewives	2004	TV Series	Rate	7.5	97,440	24 Apr 2013
+91.	Being Human	2008	TV Series	Rate	7.8	21,281	24 Apr 2013
+92.	NCIS: Los Angeles	2009	TV Series	Rate	6.7	37,994	24 Apr 2013
+93.	CSI: Miami	2002	TV Series	Rate	6.4	45,718	24 Apr 2013
+94.	Psych	2006	TV Series	Rate	8.4	69,736	24 Apr 2013
+95.	The Following	2013	TV Series	Rate	7.5	76,139	24 Apr 2013
+96.	Roswell	1999	TV Series	Rate	7.5	22,570	24 Apr 2013
+97.	M*A*S*H	1972	TV Series	Rate	8.4	39,785	24 Apr 2013
+98.	Criminal Minds	2005	TV Series	Rate	8.2	117,368	24 Apr 2013
+99.	The Office	2005	TV Series	Rate	8.8	220,408	24 Apr 2013
+100.	Warehouse 13	2009	TV Series	Rate	7.6	39,528	24 Apr 2013
+101.	Eureka	2006	TV Series	Rate	7.9	40,816	24 Apr 2013
+102.	Only Fools and Horses....	1981	TV Series	Rate	8.9	33,740	24 Apr 2013
+103.	Peep Show	2003	TV Series	Rate	8.6	37,857	24 Apr 2013
+104.	The IT Crowd	2006	TV Series	Rate	8.6	98,835	24 Apr 2013
+105.	Spaced	1999	TV Series	Rate	8.7	41,637	24 Apr 2013
+106.	House of Cards	2013	TV Series	Rate	9.0	353,436	24 Apr 2013
+107.	The Twilight Zone	1959	TV Series	Rate	9.0	48,744	24 Apr 2013
+108.	The Americans	2013	TV Series	Rate	8.3	54,435	24 Apr 2013
+109.	Revenge	2011	TV Series	Rate	7.9	101,278	24 Apr 2013
+110.	Bored to Death	2009	TV Series	Rate	7.9	28,605	24 Apr 2013
+111.	Lie to Me	2009	TV Series	Rate	8.0	93,491	24 Apr 2013
+112.	Royal Pains	2009	TV Series	Rate	7.1	16,757	24 Apr 2013
+113.	Southland	2009	TV Series	Rate	8.5	21,536	24 Apr 2013
+114.	Stargate SG-1	1997	TV Series	Rate	8.4	68,165	24 Apr 2013
+115.	30 Rock	2006	TV Series	Rate	8.2	95,525	24 Apr 2013
+116.	Chuck	2007	TV Series	Rate	8.2	112,212	24 Apr 2013
+117.	Last Resort	2012	TV Series	Rate	7.4	19,634	24 Apr 2013
+118.	Person of Interest	2011	TV Series	Rate	8.5	136,025	24 Apr 2013
+119.	New Girl	2011	TV Series	Rate	7.7	149,427	24 Apr 2013
+120.	That '70s Show	1998	TV Series	Rate	8.1	121,852	24 Apr 2013
+121.	Life	2007	TV Series	Rate	8.3	30,093	24 Apr 2013
+122.	Raising Hope	2010	TV Series	Rate	8.0	31,402	24 Apr 2013
+123.	Star Trek	1966	TV Series	Rate	8.4	55,651	24 Apr 2013
+124.	Star Trek: The Next Generation	1987	TV Series	Rate	8.6	70,630	24 Apr 2013
+125.	Star Trek: Voyager	1995	TV Series	Rate	7.7	42,025	24 Apr 2013
+126.	The Amazing Race	2001	TV Series	Rate	7.6	12,020	24 Apr 2013
+127.	Vikings	2013	TV Series	Rate	8.7	238,243	24 Apr 2013
+128.	Survivor	2000	TV Series	Rate	7.0	18,358	24 Apr 2013
+129.	NCIS: Naval Criminal Investigative Service	2003	TV Series	Rate	7.9	92,296	24 Apr 2013
+130.	Hannibal	2013	TV Series	Rate	8.6	173,827	24 Apr 2013
+131.	Bates Motel	2013	TV Series	Rate	8.2	68,234	24 Apr 2013
+132.	Arrow	2012	TV Series	Rate	7.8	329,063	24 Apr 2013
+133.	Once Upon a Time	2011	TV Series	Rate	7.9	179,748	24 Apr 2013
+134.	Revolution	2012	TV Series	Rate	6.7	74,165	24 Apr 2013
+135.	Bones	2005	TV Series	Rate	7.9	118,609	24 Apr 2013
+136.	Two and a Half Men	2003	TV Series	Rate	7.1	206,827	24 Apr 2013
+137.	Glee	2009	TV Series	Rate	6.7	119,130	24 Apr 2013
+138.	Castle	2009	TV Series	Rate	8.2	123,244	24 Apr 2013
+139.	Awkward.	2011	TV Series	Rate	7.6	38,352	24 Apr 2013
+140.	Downton Abbey	2010	TV Series	Rate	8.7	121,692	24 Apr 2013
+141.	Grimm	2011	TV Series	Rate	7.8	90,614	24 Apr 2013
+142.	Hawaii Five-0	2010	TV Series	Rate	7.4	51,892	24 Apr 2013
+143.	Pretty Little Liars	2010	TV Series	Rate	7.6	124,462	24 Apr 2013
+144.	CSI: Crime Scene Investigation	2000	TV Series	Rate	7.7	68,741	24 Apr 2013
+145.	Elementary	2012	TV Series	Rate	7.9	80,606	24 Apr 2013
+146.	Beauty and the Beast	2012	TV Series	Rate	7.2	31,149	24 Apr 2013
+147.	Nikita	2010	TV Series	Rate	7.7	43,617	24 Apr 2013
+148.	Lost Girl	2010	TV Series	Rate	7.7	24,281	24 Apr 2013
+149.	Little House on the Prairie	1974	TV Series	Rate	7.4	12,648	24 Apr 2013
+150.	Girls	2012	TV Series	Rate	7.3	54,436	24 Apr 2013
+151.	2 Broke Girls	2011	TV Series	Rate	6.8	76,367	24 Apr 2013
+152.	Suburgatory	2011	TV Series	Rate	7.2	27,831	24 Apr 2013
+153.	Smallville	2001	TV Series	Rate	7.5	100,501	24 Apr 2013
+154.	The Carrie Diaries	2013	TV Series	Rate	7.0	22,535	24 Apr 2013
+155.	Gossip Girl	2007	TV Series	Rate	7.4	122,692	24 Apr 2013
+156.	Hart of Dixie	2011	TV Series	Rate	7.8	36,373	24 Apr 2013
+157.	90210	2008	TV Series	Rate	6.1	37,498	24 Apr 2013
+158.	Nashville	2012	TV Series	Rate	7.7	19,195	24 Apr 2013
+159.	Anger Management	2012	TV Series	Rate	6.7	27,703	24 Apr 2013
+160.	Law & Order: Special Victims Unit	1999	TV Series	Rate	8.1	56,322	24 Apr 2013
+161.	Banshee	2013	TV Series	Rate	8.4	64,164	24 Apr 2013
+162.	Touch	2012	TV Series	Rate	7.4	38,639	24 Apr 2013
+163.	Scandal	2012	TV Series	Rate	7.8	55,830	24 Apr 2013
+164.	Body of Proof	2011	TV Series	Rate	7.1	12,480	24 Apr 2013
+165.	One Tree Hill	2003	TV Series	Rate	7.7	60,752	24 Apr 2013
+166.	Continuum	2012	TV Series	Rate	7.7	49,286	24 Apr 2013
+167.	Teen Wolf	2011	TV Series	Rate	7.7	98,153	24 Apr 2013
+168.	American Idol: The Search for a Superstar	2002	TV Series	Rate	4.2	19,750	24 Apr 2013
+169.	Smash	2012	TV Series	Rate	7.7	14,926	24 Apr 2013
+170.	American Dad!	2005	TV Series	Rate	7.5	91,387	24 Apr 2013
+171.	Rules of Engagement	2007	TV Series	Rate	7.3	27,593	24 Apr 2013
+172.	Adventure Time with Finn & Jake	2010	TV Series	Rate	8.7	53,092	24 Apr 2013
+173.	Being Human	2011	TV Series	Rate	7.5	21,839	24 Apr 2013
+174.	Falling Skies	2011	TV Series	Rate	7.2	77,182	24 Apr 2013
+175.	Merlin	2008	TV Series	Rate	7.9	58,698	24 Apr 2013
+176.	CSI: NY	2004	TV Series	Rate	7.0	37,947	24 Apr 2013
+177.	Cougar Town	2009	TV Series	Rate	7.0	36,767	24 Apr 2013
+178.	Nurse Jackie	2009	TV Series	Rate	7.7	20,648	24 Apr 2013
+179.	The Mindy Project	2012	TV Series	Rate	7.4	23,972	24 Apr 2013
+180.	Skins	2007	TV Series	Rate	8.2	62,267	24 Apr 2013
+181.	Go On	2012	TV Series	Rate	7.6	18,596	24 Apr 2013
+182.	The Tudors	2007	TV Series	Rate	8.1	54,183	24 Apr 2013
+183.	Full House	1987	TV Series	Rate	6.7	43,519	24 Apr 2013
+184.	Chicago Fire	2012	TV Series	Rate	7.9	24,828	24 Apr 2013
+185.	MythBusters	2003	TV Series	Rate	8.3	46,895	24 Apr 2013
+186.	Veep	2012	TV Series	Rate	8.2	28,411	24 Apr 2013
+187.	Sex and the City	1998	TV Series	Rate	7.0	84,214	24 Apr 2013
+188.	Avatar: The Last Airbender	2005	TV Series	Rate	9.2	147,053	24 Apr 2013
+189.	The Middle	2009	TV Series	Rate	7.5	34,989	24 Apr 2013
+190.	Dragon Ball Z	1996	TV Series	Rate	8.8	85,172	24 Apr 2013
+191.	Charmed	1998	TV Series	Rate	7.1	60,234	24 Apr 2013
+192.	Bob's Burgers	2011	TV Series	Rate	8.1	43,662	24 Apr 2013
+193.	The Secret Life of the American Teenager	2008	TV Series	Rate	5.0	17,677	24 Apr 2013
+194.	The Lying Game	2011	TV Series	Rate	7.4	16,652	24 Apr 2013
+195.	Workaholics	2011	TV Series	Rate	8.2	39,086	24 Apr 2013
+196.	Saturday Night Live	1975	TV Series	Rate	8.1	34,779	24 Apr 2013
+197.	Top Gear	1978	TV Series	Rate	8.4	23,143	24 Apr 2013
+198.	Spider-Man	1994	TV Series	Rate	8.3	18,600	24 Apr 2013
+199.	Switched at Birth	2011	TV Series	Rate	7.8	19,856	24 Apr 2013
+200.	Parenthood	2010	TV Series	Rate	8.1	25,157	24 Apr 2013
+201.	Alias	2001	TV Series	Rate	7.6	38,876	24 Apr 2013
+202.	Boy Meets World	1993	TV Series	Rate	8.1	33,265	24 Apr 2013
+203.	666 Park Avenue	2012	TV Series	Rate	6.9	16,060	24 Apr 2013
+204.	SpongeBob SquarePants	1999	TV Series	Rate	8.1	62,507	24 Apr 2013
+205.	Top Gear	2002	TV Series	Rate	8.7	87,501	24 Apr 2013
+206.	The Golden Girls	1985	TV Series	Rate	7.8	23,564	24 Apr 2013
+207.	The O.C.	2003	TV Series	Rate	7.5	68,615	24 Apr 2013
+208.	Mike & Molly	2010	TV Series	Rate	6.4	18,676	24 Apr 2013
+209.	Batman: The Animated Series	1992	TV Series	Rate	9.0	58,286	24 Apr 2013
+210.	Blackadder Goes Forth	1989	TV Series	Rate	8.8	35,967	24 Apr 2013
+212.	The Legend of Korra	2012	TV Series	Rate	8.6	71,409	24 Apr 2013
+213.	Chappelle's Show	2003	TV Series	Rate	8.7	38,508	24 Apr 2013
+214.	Dragon Ball	1995	TV Series	Rate	8.6	38,550	24 Apr 2013
+215.	Black Books	2000	TV Series	Rate	8.6	43,165	24 Apr 2013
+216.	Coupling	2000	TV Series	Rate	8.6	36,445	24 Apr 2013
+217.	The Colbert Report	2005	TV Series	Rate	8.6	32,764	24 Apr 2013
+218.	Mr. Bean	1990	TV Series	Rate	8.5	69,930	24 Apr 2013
+219.	Extras	2005	TV Series	Rate	8.4	43,190	24 Apr 2013
+220.	Justice League	2001	TV Series	Rate	8.6	29,671	24 Apr 2013
+221.	Red Dwarf	1988	TV Series	Rate	8.4	26,848	24 Apr 2013
+222.	Agatha Christie's Poirot	1989	TV Series	Rate	8.6	26,454	24 Apr 2013
+223.	The Inbetweeners	2008	TV Series	Rate	8.4	60,765	24 Apr 2013
+224.	Samurai Jack	2001	TV Series	Rate	8.4	30,835	24 Apr 2013
+225.	Courage the Cowardly Dog	1999	TV Series	Rate	8.3	27,020	24 Apr 2013
+226.	Doctor Who	1963	TV Series	Rate	8.5	28,192	24 Apr 2013
+227.	An Idiot Abroad	2010	TV Series	Rate	8.3	25,027	24 Apr 2013
+228.	Farscape	1999	TV Series	Rate	8.3	27,920	24 Apr 2013
+229.	Eastbound & Down	2009	TV Series	Rate	8.3	43,486	24 Apr 2013
+230.	Trailer Park Boys	2001	TV Series	Rate	8.5	27,482	24 Apr 2013
+231.	Blue Mountain State	2010	TV Series	Rate	8.4	41,191	24 Apr 2013
+232.	Married with Children	1987	TV Series	Rate	8.1	81,514	24 Apr 2013
+233.	The Boondocks	2005	TV Series	Rate	8.4	22,311	24 Apr 2013
+234.	Babylon 5	1994	TV Series	Rate	8.3	23,399	24 Apr 2013
+235.	Frasier	1993	TV Series	Rate	8.0	58,215	24 Apr 2013
+236.	My Name Is Earl	2005	TV Series	Rate	7.8	85,765	24 Apr 2013
+237.	The Fresh Prince of Bel-Air	1990	TV Series	Rate	7.9	95,639	24 Apr 2013
+238.	Wilfred	2011	TV Series	Rate	7.9	36,529	24 Apr 2013
+239.	Cheers	1982	TV Series	Rate	7.8	36,602	24 Apr 2013
+240.	Star Trek: Deep Space Nine	1993	TV Series	Rate	7.9	36,514	24 Apr 2013
+241.	Stargate: Atlantis	2004	TV Series	Rate	8.1	51,237	24 Apr 2013
+242.	Gilmore Girls	2000	TV Series	Rate	8.1	74,652	24 Apr 2013
+243.	Damages	2007	TV Series	Rate	8.1	24,920	24 Apr 2013
+244.	QI	2003	TV Series	Rate	8.6	24,418	24 Apr 2013
+245.	Young Justice	2010	TV Series	Rate	8.7	20,216	24 Apr 2013
+246.	My So-Called Life	1994	TV Series	Rate	8.4	16,495	24 Apr 2013
+247.	Spooks	2002	TV Series	Rate	8.3	12,293	24 Apr 2013
+248.	Robot Chicken	2005	TV Series	Rate	7.8	34,212	24 Apr 2013
+249.	NewsRadio	1995	TV Series	Rate	7.9	11,067	24 Apr 2013
+250.	The Black Donnellys	2007	TV Series	Rate	8.2	12,942	24 Apr 2013
+251.	Homicide: Life on the Street	1993	TV Series	Rate	8.6	9,178	24 Apr 2013
+252.	Dead Like Me	2003	TV Series	Rate	8.2	35,671	24 Apr 2013
+253.	Pushing Daisies	2007	TV Series	Rate	8.4	47,235	24 Apr 2013
+254.	The Venture Bros.	2003	TV Series	Rate	8.6	19,645	24 Apr 2013
+255.	Summer Heights High	2007	TV Series	Rate	8.5	12,176	24 Apr 2013
+256.	3rd Rock from the Sun	1996	TV Series	Rate	7.8	39,783	24 Apr 2013
+257.	Rubicon	2010	TV Series	Rate	7.9	9,286	24 Apr 2013
+258.	Flight of the Conchords	2007	TV Series	Rate	8.6	45,177	24 Apr 2013
+259.	Life on Mars	2006	TV Series	Rate	8.3	25,336	24 Apr 2013
+260.	Quantum Leap	1989	TV Series	Rate	8.1	21,169	24 Apr 2013
+261.	Tales from the Crypt	1989	TV Series	Rate	8.0	16,265	24 Apr 2013
+262.	Boston Legal	2004	TV Series	Rate	8.4	36,695	24 Apr 2013
+263.	Missing	2012	TV Series	Rate	7.0	9,019	24 Apr 2013
+264.	The Wonder Years	1988	TV Series	Rate	8.3	29,366	24 Apr 2013
+265.	Monty Python's Flying Circus	1969	TV Series	Rate	8.9	48,522	24 Apr 2013
+266.	Life	2009	Mini-Series	Rate	9.1	27,167	24 Apr 2013
+267.	Fawlty Towers	1975	TV Series	Rate	8.8	63,824	24 Apr 2013
+268.	Black-Adder II	1986	TV Series	Rate	8.7	32,207	24 Apr 2013
+269.	Black Adder the Third	1987	TV Series	Rate	8.6	31,060	24 Apr 2013
+270.	The Office	2001	TV Series	Rate	8.6	73,543	24 Apr 2013
+271.	Mystery Science Theater 3000	1988	TV Series	Rate	8.6	19,393	24 Apr 2013
+272.	Whose Line Is It Anyway?	1998	TV Series	Rate	8.6	32,841	24 Apr 2013
+273.	Father Ted	1995	TV Series	Rate	8.6	28,199	24 Apr 2013
+274.	X-Men	1992	TV Series	Rate	8.5	27,049	24 Apr 2013
+275.	The Black Adder	1982	TV Series	Rate	8.2	28,431	24 Apr 2013
+276.	Man vs. Wild	2006	TV Series	Rate	8.2	19,966	24 Apr 2013
+277.	The Mighty Boosh	2003	TV Series	Rate	8.4	16,794	24 Apr 2013
+278.	DuckTales	1987	TV Series	Rate	8.1	22,702	24 Apr 2013
+279.	Pinky and the Brain	1995	TV Series	Rate	7.9	23,359	24 Apr 2013
+280.	Better Off Ted	2009	TV Series	Rate	8.2	22,408	24 Apr 2013
+281.	Hustle	2004	TV Series	Rate	8.2	19,713	24 Apr 2013
+282.	Dexter's Laboratory	1996	TV Series	Rate	8.0	32,727	24 Apr 2013
+283.	Studio 60 on the Sunset Strip	2006	TV Series	Rate	8.3	20,983	24 Apr 2013
+284.	Transformers	1984	TV Series	Rate	8.0	17,041	24 Apr 2013
+285.	Teenage Mutant Ninja Turtles	1987	TV Series	Rate	8.0	24,195	24 Apr 2013
+286.	Awake	2012	TV Series	Rate	7.9	18,998	24 Apr 2013
+287.	Scooby Doo, Where Are You!	1969	TV Series	Rate	7.9	22,160	24 Apr 2013
+288.	Daria	1997	TV Series	Rate	8.0	19,573	24 Apr 2013
+289.	Aqua Teen Hunger Force	2000	TV Series	Rate	7.7	19,453	24 Apr 2013
+290.	Human Target	2010	TV Series	Rate	7.8	15,831	24 Apr 2013
+291.	Hey Arnold!	1994	TV Series	Rate	7.7	23,951	24 Apr 2013
+292.	The Adventures of Sherlock Holmes	1984	TV Series	Rate	8.8	14,780	24 Apr 2013
+293.	The Muppet Show	1976	TV Series	Rate	8.4	16,647	24 Apr 2013
+294.	The Daily Show	1996	TV Series	Rate	8.7	36,646	24 Apr 2013
+295.	The Bugs Bunny/Looney Tunes Comedy Hour	1985	TV Series	Rate	8.4	12,839	24 Apr 2013
+296.	I'm Alan Partridge	1997	TV Series	Rate	8.6	13,986	24 Apr 2013
+297.	Garth Marenghi's Darkplace	2004	TV Series	Rate	8.5	12,495	24 Apr 2013
+298.	Kôkaku kidôtai: Stand Alone Complex	2002	TV Series	Rate	8.6	13,369	24 Apr 2013
+299.	I Love Lucy	1951	TV Series	Rate	8.4	18,041	24 Apr 2013
+300.	Invader ZIM	2001	TV Series	Rate	8.4	16,355	24 Apr 2013
+301.	Are You Afraid of the Dark?	1990	TV Series	Rate	8.3	10,219	24 Apr 2013
+302.	The Adventures of Tintin	1991	TV Series	Rate	8.3	14,030	24 Apr 2013
+303.	'Allo 'Allo!	1982	TV Series	Rate	8.3	19,924	24 Apr 2013
+304.	Columbo	1971	TV Series	Rate	8.2	20,526	24 Apr 2013
+305.	The Adventures of Pete & Pete	1992	TV Series	Rate	8.4	8,134	24 Apr 2013
+306.	Bottom	1991	TV Series	Rate	8.2	9,319	24 Apr 2013
+307.	Northern Exposure	1990	TV Series	Rate	8.3	12,443	24 Apr 2013
+308.	Wonderfalls	2004	TV Series	Rate	8.3	10,968	24 Apr 2013
+309.	The Young Ones	1982	TV Series	Rate	8.2	10,959	24 Apr 2013
+310.	Home Movies	1999	TV Series	Rate	8.2	7,777	24 Apr 2013
+311.	Penn & Teller: Bullshit!	2003	TV Series	Rate	8.2	10,798	24 Apr 2013
+312.	Metalocalypse	2006	TV Series	Rate	8.3	13,014	24 Apr 2013
+313.	Conan	2010	TV Series	Rate	8.1	18,004	24 Apr 2013
+314.	Rocko's Modern Life	1993	TV Series	Rate	8.0	15,239	24 Apr 2013
+315.	Green Wing	2004	TV Series	Rate	8.4	9,059	24 Apr 2013
+316.	Gargoyles	1994	TV Series	Rate	8.1	11,110	24 Apr 2013
+317.	Undeclared	2001	TV Series	Rate	8.0	15,040	24 Apr 2013
