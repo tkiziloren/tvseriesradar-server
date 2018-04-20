@@ -1,0 +1,5 @@
+#start mongodb docker instance 
+sudo docker run --name mongodb_server -p 127.0.0.1:27017:27017 -p 127.0.0.1:28017:28017 -v /home/tseven/mongo_data_dir:/data/db -d mongo
+
+#start mongo-express docker instance
+sudo docker run -it --rm -p 8081:8081 --link mongodb_server:mongo mongo-expres
